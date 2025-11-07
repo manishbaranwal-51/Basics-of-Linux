@@ -2,44 +2,44 @@ Introduction
 
 In this module, I learned and practiced basic *Search and Filter* Linux commands.
 
-4️⃣ Searching & Filtering (Command Description Example)
+4️⃣ Searching & Filtering (Command, Description & Example)
 
 
-find	
+find:
 Search for files/directories	
 find /home -name "*.txt"
 
 
-locate	
+locate:
 Quickly find files (uses database)
 locate passwd
 
 
-grep	
+grep:
 Search inside files for text patterns	
 grep "error" /var/log/syslog
 
 
-grep -r	
+grep -r:
 Recursive search inside directories	
 grep -r "function" /etc
 
 
-wc	
+wc:
 Count words, lines, and bytes	
 wc -l filename.txt
 
 
-sort	
+sort:
 Sort lines in a file
 sort names.txt
 
 
-uniq
+uniq:
 Remove duplicate lines
 uniq list.txt
 
 
-cut	
+cut:
 Extract columns from text
 cut -d':' -f1 /etc/passwd

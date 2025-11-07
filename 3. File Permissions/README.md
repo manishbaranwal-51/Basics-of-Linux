@@ -2,7 +2,7 @@ Introduction
 
 In this module, I learned and practiced basic *File Permissions and Ownership Management* Linux commands.
 
-3️⃣ File Permissions & Ownership (Command Description Example)
+3️⃣ File Permissions & Ownership (Command, Description & Example)
 
 
 ls -l:

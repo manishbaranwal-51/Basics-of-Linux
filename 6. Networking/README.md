@@ -2,7 +2,7 @@ Introduction
 
 In this module, I learned and practiced some basic *Networking* Linux commands.
 
-6️⃣ Networking Commands
+6️⃣ Networking Commands (Command, Description & Example)
 
 ip addr:
 Show IP addresses and interfaces

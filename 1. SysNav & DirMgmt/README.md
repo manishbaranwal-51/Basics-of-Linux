@@ -2,7 +2,7 @@ Introduction
 
 Today in this module, I learned and practiced some basic System Navigation & Directory Management Linux commands which are essential for navigating and managing directories.
 
-1️⃣ System Navigation & Directory Management (Command	Description	Example)
+1️⃣ System Navigation & Directory Management (Command, Description & Example)
 
 
 pwd:

@@ -2,7 +2,7 @@ Introduction
 
 Today in this module, I learned and practiced some basic *File Management* Linux commands.
 
-2️⃣ File Management (Command Description Example)
+2️⃣ File Management (Command, Description & Example)
 
 
 touch:
